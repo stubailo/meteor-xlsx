@@ -2,11 +2,7 @@
   "name": "xlsx",
   "description": "Compile xlsx files into javascript",
   "homepage": "https://github.com/tmeasday/meteor-router",
-  "author": "Tom Coleman <tom@thesnail.org>",
-  "version": "0.6.1",
-  "git": "https://github.com/tmeasday/meteor-router.git",
-  "packages": {
-    "page-js-ie-support": {},
-    "HTML5-History-API": {}
-  }
+  "author": "Sashko Stubailo <sashko@meteor.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/stubailo/meteor-xlsx.git"
 }
